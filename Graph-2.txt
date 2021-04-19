@@ -6,4 +6,4 @@ Print out num of destinations of each country,in each line. if no destinations, 
 
 Print out every destinations of each country. Print nothing with no destinations. "country can fly to country, country, country"
 
-print out the most flexiable country and num of the destinations
+print out the most flexiable country and num of the destinations."The most flexiable country is country, routs number"
