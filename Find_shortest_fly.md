@@ -3,3 +3,4 @@
 Step by Step
 1. write routes into a text file
 2. Make a graph, called fly_graph1, we can ignore the distance at first place. only consider the direction.
+3. Write a function get_path, It with start and end point. print out the path from start to end, Print "not available" if No route.
