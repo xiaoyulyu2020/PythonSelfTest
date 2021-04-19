@@ -1,0 +1,18 @@
+Graph-1
+
+Make a Graph
+
+China - Jap
+China - Idia
+China - Korea
+Fr - UK
+Fr - Ger
+Fr - China
+Fr - Korea
+Ire - China
+Ire - USA
+USA - Idia
+USA - Egypt
+IRAN - Idia
+Idia - China
+China - USA
