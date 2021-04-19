@@ -2,6 +2,8 @@ Graph-2
 
 base on Graph
 
-Print out num of destinations of each country
+Print out num of destinations of each country,in each line. if no destinations, Don't print out. "country have number of destinations"
 
-Print out every destinations of each country
+Print out every destinations of each country. Print nothing with no destinations. "country can fly to country, country, country"
+
+print out the most flexiable country and num of the destinations
