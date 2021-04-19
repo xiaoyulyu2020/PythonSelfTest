@@ -4,7 +4,7 @@ Make a Graph
 assume airline is two ways
 
 China - Jap
-China - Idia
+China - India
 China - Korea
 Fr - UK
 Fr - Ger
