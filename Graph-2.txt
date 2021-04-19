@@ -1,0 +1,7 @@
+Graph-2
+
+base on Graph
+
+Print out num of destinations of each country
+
+Print out every destinations of each country
