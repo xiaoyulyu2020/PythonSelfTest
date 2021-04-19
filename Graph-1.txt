@@ -1,6 +1,7 @@
 Graph-1
 
 Make a Graph
+assume airline is two ways
 
 China - Jap
 China - Idia
@@ -11,8 +12,8 @@ Fr - China
 Fr - Korea
 Ire - China
 Ire - USA
-USA - Idia
+USA - India
 USA - Egypt
 IRAN - Idia
-Idia - China
+India - China
 China - USA
