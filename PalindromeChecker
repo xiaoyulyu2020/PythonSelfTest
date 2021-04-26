@@ -1,0 +1,12 @@
+There are random words, could be any characters or special symbols in them.
+We only care about the characters in the words
+exp: we are so happey, the day comes.semoc yad eht ?yeppah os era ew,
+we say this is palindrome.
+Of course, "abcba" also is
+stdin
+return True if it is palindrome
+
+test cases:
+we are so happey, the day comes.semoc yad eht ?yeppah os era ew,
+abcdcba
+abvvvcsd
