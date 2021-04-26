@@ -1,0 +1,7 @@
+From Google Interview
+
+Give a solution:
+The first Duplicate letter, If no duplicate letters, should no output, you can assume the len of string at leat 1
+ABCA  A
+ABCBA  B
+ABC 
