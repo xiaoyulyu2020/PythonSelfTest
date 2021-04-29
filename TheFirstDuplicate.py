@@ -7,6 +7,6 @@ def main():
       if c not in stack:
          stack.append(c)
       else:
-         return print(c)
+         print(c)
 if __name__ == "__main__":
    main()
