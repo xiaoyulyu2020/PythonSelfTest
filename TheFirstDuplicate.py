@@ -8,5 +8,6 @@ def main():
          stack.append(c)
       else:
          print(c)
+         return
 if __name__ == "__main__":
    main()
