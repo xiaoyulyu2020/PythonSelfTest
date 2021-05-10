@@ -1,8 +1,8 @@
 1. make a Graph
 2. test with : python3 test2.py test.txt 0 5
 3. 0 is start node, 5 is destination
-4. show all routes end with 5
-5. show all routes start with 0
+show the route
+
 
 Graph :
 7
